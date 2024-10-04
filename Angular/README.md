@@ -1,6 +1,4 @@
-# c
-
-- [Angular](Angular/README.md)
+# Angular
 - [Java](Java/README.md)
 - [Javascript](JavaScript/README.md)
 - [Node.js](Node.js/README.md)
