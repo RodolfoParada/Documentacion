@@ -20,6 +20,7 @@
 
 # Páginas con contenido de lenguajes y ayuda
 - https://www.w3schools.com/html/default.asp
+- https://developer.mozilla.org/es/
 
 #IA
 - https://you.com/
