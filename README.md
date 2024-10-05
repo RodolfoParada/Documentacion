@@ -1,5 +1,5 @@
 # Inicio
-- [Amazon AWS](AmazonAWS/README.md)
+- [Amazon AWS](Amazon_AWS/README.md)
 - [Angular](Angular/README.md)
 - [Bootstrap](Bootstrap/README.md)
 - [Figma](Figma/README.md)
