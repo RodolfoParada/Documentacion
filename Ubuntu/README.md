@@ -38,3 +38,14 @@ sudo apt update
 ```ubuntu
  sudo snap refresh
 ```
+#### Comandos para cerrar localhost ubuntu
+**Paso 1**
+```ubuntu
+ sudo lsof -i :8080
+```
+#### Comandos para cerrar localhost ubuntu
+**Paso 2**
+```ubuntu
+ kill numeroPID
+```
+
