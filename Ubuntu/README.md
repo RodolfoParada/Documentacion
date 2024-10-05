@@ -25,7 +25,7 @@ mkdir nombreCarpeta
 ```ubuntu
 rm -r nombreCarpeta
 ```
-#### Actualizar por consola
+#### Actualizar programas por consola
 **paso 1**
 ```ubuntu
 sudo apt update
