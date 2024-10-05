@@ -1,6 +1,7 @@
 # Ubuntu
 - [Volver al Inicio](../README.md)
 
+### Comandos Unicos
 **Comando para abrir una terminal**
 ```ubuntu
 Ctrl + Alt + T
@@ -25,6 +26,10 @@ mkdir nombreCarpeta
 ```ubuntu
 rm -r nombreCarpeta
 ```
+**Refrescar snap**
+```ubuntu
+ sudo snap refresh
+```
 #### Actualizar programas por consola
 **paso 1**
 ```ubuntu
@@ -33,10 +38,6 @@ sudo apt update
 **paso 2 -y no es necesaria**
 ```ubuntu
  sudo apt upgrade -y
-```
-**Refrescar snap**
-```ubuntu
- sudo snap refresh
 ```
 #### Comandos para cerrar localhost ubuntu
 **Paso 1**
