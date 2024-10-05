@@ -1,5 +1,5 @@
 # Angular
-- [Inicio](../Inicio.md)
+- [README](../README.md)
 - [Angular](Angular/README.md)
 - [Java](Java/README.md)
 - [JavaScript](JavaScript/README.md)
