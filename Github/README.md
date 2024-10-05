@@ -1,11 +1,9 @@
 # GitHub
 - [Volver al Inicio](../README.md)
 
-Libro digital
+Libro digital https://git-scm.com/book/en/v2
 
-https://git-scm.com/book/en/v2
-
-### **Git Instruction**
+### **Instrucciones Git**
 
 
 
