@@ -5,6 +5,7 @@
 - [GitHub](Github/README.md)
 - [Java](Java/README.md)
 - [Javascript](Javascript/README.md)
+- [MySQL](MySQL/README.md)
 - [Node.js](Node.js/README.md)
 - [React](React/README.md)
 - [SprintBoot](SprintBoot/README.md)
