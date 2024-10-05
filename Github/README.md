@@ -7,9 +7,15 @@ https://git-scm.com/book/en/v2
 
 ### **Git Instruction**
 
-Obtener últimos cambios de repositorio
 
-Obtener últimos cambios de repositorio
+
+**Obtener últimos cambios de repositorio**
+```Github
+git pull
+ 
+```
+
+
 
 **git pull**
 
