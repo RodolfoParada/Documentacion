@@ -15,6 +15,7 @@
 - https://developer.android.com/courses?index=..%2F..advanced-android-kotlin-training&hl=es#0
 - https://cssbattle.dev/
 - https://flexboxfroggy.com/#es
+- https://www.codedex.io/
 
 # Páginas con contenido de lenguajes y ayuda
 - https://www.w3schools.com/html/default.asp
