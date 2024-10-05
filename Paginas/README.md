@@ -20,6 +20,7 @@
 - https://cursa.app/cursos-online-gestion-y-negocios-gratis
 - https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html
 - https://explore.skillbuilder.aws/learn?cta=free
+- https://www.edx.org/search?q=CS50&tab=course
 
 # Páginas con contenido de lenguajes y ayuda
 - https://www.w3schools.com/html/default.asp
