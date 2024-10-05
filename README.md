@@ -1,9 +1,9 @@
 # c
 
-- [Angular](Angular/README.md)
-- [Java](Java/README.md)
-- [Javascript](JavaScript/README.md)
-- [Node.js](Node.js/README.md)
-- [React](React/README.md)
-- [SprintBoot](SprintBoot/README.md)
-- [Ubuntu](Ubuntu/README.md)
+- [Angular](angular/README.md)
+- [Java](java/README.md)
+- [Javascript](javaScript/README.md)
+- [Node.js](node.js/README.md)
+- [React](neact/README.md)
+- [SprintBoot](sprintboot/README.md)
+- [Ubuntu](ubuntu/README.md)
