@@ -2,7 +2,12 @@
 - [Volver al Inicio](../README.md)
 
 <aside>
-👋 Página para descargar JDK :
+
+OpenJDK
+
+https://openjdk.org/
+  
+Página para descargar JDK :
 
 https://www.oracle.com/java/technologies/downloads/
 
