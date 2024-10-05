@@ -15,3 +15,10 @@ npx create-react-app .
  ```react
   rfc
 ```
+ **Para dar formatos**
+ ```react
+  npm i react-number-format
+```
+
+
+
