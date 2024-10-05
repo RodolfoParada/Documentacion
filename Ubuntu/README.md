@@ -14,7 +14,7 @@ AltGr + }
 ```ubuntu
 Shift + 7
 ```
-**Comando Barra diagonal al revés \**
+**Comando Barra diagonal al revés\**
 ```ubuntu
 control + v = \
 ```
