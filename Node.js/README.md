@@ -16,3 +16,8 @@ https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
  https://www.nodejsera.com/30-days-of-node.html
  <aside>
+
+**Intalador de versiones NPM para todo**
+```javascript
+npm use masNumeroVersion
+```
