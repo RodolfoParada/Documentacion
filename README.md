@@ -9,9 +9,11 @@
 - [Javascript](Javascript/README.md)
 - [MySQL](MySQL/README.md)
 - [Node.js](Node.js/README.md)
+- [Paginas](Paginas/README.md)
 - [React.js](React/README.md)
 - [SQL](SQL/README.md)
 - [SprintBoot](SprintBoot/README.md)
 - [UX](UX/README.md)
 - [Ubuntu](Ubuntu/README.md)
 - [Vue.js](Vue.js/README.md)
+
