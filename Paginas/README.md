@@ -30,3 +30,4 @@
 # Páginas con cursos
 - https://codigofacilito.com/cursos/javascript
 - https://bluuweb.github.io/
+- https://www.youtube.com/playlist?list=PLPl81lqbj-4J2xx_YAb97dpCG1rxl2wv-
