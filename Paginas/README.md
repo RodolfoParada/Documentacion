@@ -20,5 +20,9 @@
 # Páginas con contenido de lenguajes y ayuda
 - https://www.w3schools.com/html/default.asp
 
+#IA
+- https://you.com/
+
+
 # Páginas con cursos
 - https://codigofacilito.com/cursos/javascript
