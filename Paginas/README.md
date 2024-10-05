@@ -2,3 +2,4 @@
 - [Volver al Inicio](../README.md)
 
 - https://fullstackopen.com/es/
+- https://www.codewars.com/
