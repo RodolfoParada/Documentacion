@@ -17,6 +17,7 @@
 - https://flexboxfroggy.com/#es
 - https://www.codedex.io/
 - https://en.bem.info/methodology/
+- https://cursa.app/cursos-online-gestion-y-negocios-gratis
 
 # Páginas con contenido de lenguajes y ayuda
 - https://www.w3schools.com/html/default.asp
