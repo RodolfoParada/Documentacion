@@ -15,13 +15,14 @@ git pull
  
 ```
 
+**Crear y moverse a una nueva rama**
+```Github
+git checkout -b nombre-rama
+ 
+```
 
 
-**git pull**
 
-Crear y moverse a nueva rama
-
-**git checkout -b nombre-rama**
 
 Ver cambios en archivos
 
