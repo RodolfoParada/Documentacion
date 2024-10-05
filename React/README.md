@@ -11,7 +11,7 @@ npx create-react-app .
  ```react
   npm start  
 ```
- **para crear un componente tipo react en visual estudio**
+ **Para crear un componente tipo react en visual estudio**
  ```react
   rfc
 ```
