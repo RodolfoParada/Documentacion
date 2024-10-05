@@ -60,7 +60,26 @@ git init
 ```Github
 git confing
 ```
-
+**Listar ramas locales**
+```Github
+git branch
+```
+**Listar ramas remotas**
+```Github
+git branch -r
+```
+**Listar todas las ramas (locales y remotas)**
+```Github
+git branch -r
+```
+**Listar archivos en el repositorio**
+```Github
+git ls-files
+```
+**Listar cambios entre commits o ramas**
+```Github
+git diff
+```
 
 
 
