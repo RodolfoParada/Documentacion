@@ -13,7 +13,7 @@ Página oficial de  cursos Vue :
 https://vueschool.io/
 https://vueschool.io/lessons/introduction-to-vue-router-4
 https://escuelavue.es/
-
+https://vuex.vuejs.org/
 cursos
 
 https://escuelavue.es/cursos/
