@@ -2,7 +2,7 @@
 - [Volver al Inicio](../README.md)
 
 ### Comandos Unicos
-**Comando para abrir una terminal**
+**Comando para abrir una terminal desde el teclado**
 ```ubuntu
 Ctrl + Alt + T
 ```
