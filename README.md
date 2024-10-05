@@ -12,4 +12,4 @@
 - [SprintBoot](SprintBoot/README.md)
 - [UX](UX/README.md)
 - [Ubuntu](Ubuntu/README.md)
-- [VUE.js](Vue.js/README.md)
+- [Vue.js](Vue.js/README.md)
