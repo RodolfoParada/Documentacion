@@ -1,5 +1,24 @@
 # GitHub
 - [Volver al Inicio](../README.md)
+- [Instrucciones Git](#instrucciones-git)
+  - [Obtener últimos cambios de repositorio](#obtener-últimos-cambios-de-repositorio)
+  - [Crear y moverse a una nueva rama](#crear-y-moverse-a-una-nueva-rama)
+  - [Ver cambios en archivos](#ver-cambios-en-archivos)
+  - [Agregar cambios e ignorar archivo .env](#agregar-cambios-e-ignorar-archivo-env)
+  - [Crear commit con mensaje](#crear-commit-con-mensaje)
+  - [Subir cambios a rama creada](#subir-cambios-a-rama-creada)
+  - [Cambiarse a rama develop](#cambiarse-a-rama-develop)
+  - [Mezclar rama develop con nueva rama](#mezclar-rama-develop-con-nueva-rama)
+  - [Subir rama develop con cambios mezclados](#subir-rama-develop-con-cambios-mezclados)
+- [Otros comandos Git](#otros-comandos-git)
+  - [Ver historial de commits](#ver-historial-de-commits)
+  - [Iniciar repositorio](#iniciar-repositorio)
+  - [Configuraciones de Git](#configuraciones-de-git)
+  - [Listar ramas locales](#listar-ramas-locales)
+  - [Listar ramas remotas](#listar-ramas-remotas)
+  - [Listar todas las ramas](#listar-todas-las-ramas)
+  - [Listar archivos en el repositorio](#listar-archivos-en-el-repositorio)
+  - [Listar cambios entre commits o ramas](#listar-cambios-entre-commits-o-ramas)
 
 Libro digital https://git-scm.com/book/en/v2
 
