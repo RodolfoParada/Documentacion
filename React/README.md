@@ -19,6 +19,10 @@ npx create-react-app .
  ```react
   npm i react-number-format
 ```
+ **Para manejar router**
+ ```react
+  npm i react-router-dom
+```
 
 
 
