@@ -33,25 +33,23 @@ git add .
 ```Github
 git commit -m “convetional : mensaje ”
 ```
-
-
-
-Crear commit con mensaje
-
-**git commit -m “convetional : mensaje ”**
-
-Subir cambios a rama creada 
-
-**git push origin nombre-rama**
-
-Cambiarse a rama develop
-
-**git checkout develop**
-
-Mezclar rama develop con nueva rama (Nombre de la rama que se va a unir a develop)
-
+**Subir cambios a rama creada**
+```Github
+git push origin nombre-rama
+```
+**Cambiarse a rama develop**
+```Github
+git checkout develop
+```
+**Mezclar rama develop con nueva rama (nombre de la rama que se va a unir a develop)**
+```Github
 git merge --no-ff nombre-rama
-
- Subir rama develop con cambios mezclados  
-
+```
+**Subir rama develop con cambios meclado**
+```Github
 git push
+```
+
+
+
+
