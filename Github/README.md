@@ -25,12 +25,16 @@ git status
 ```Github
 git add . :!.env
 ```
+**Agrega Todos los cambios**
+```Github
+git add .
+```
+**Crear commit con mensaje**
+```Github
+git commit -m “convetional : mensaje ”
+```
 
 
-
-Agregar Todos los cambios
-
-**git add .**
 
 Crear commit con mensaje
 
