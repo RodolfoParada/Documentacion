@@ -4,12 +4,15 @@
 Página oficial de Vue :
 
 https://jdonsan.github.io/charla-aprendiendo-vuejs/slides/#slide=23
+https://lenguajejs.com/vuejs/introduccion/@vue-cli/
 
 https://vuejs.org/
 
 Página oficial de  cursos Vue :
 
 https://vueschool.io/
+https://vueschool.io/lessons/introduction-to-vue-router-4
+https://escuelavue.es/
 
 cursos
 
