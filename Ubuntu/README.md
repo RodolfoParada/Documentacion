@@ -26,6 +26,10 @@ mkdir nombreCarpeta
 ```ubuntu
 rm -r nombreCarpeta
 ```
+**Comando para forzar a cerrar un programa que se pega**
+```ubuntu
+ xkill
+```
 **Refrescar snap**
 ```ubuntu
  sudo snap refresh
@@ -44,7 +48,6 @@ sudo apt update
 ```ubuntu
  sudo lsof -i :8080
 ```
-#### Comandos para cerrar localhost ubuntu
 **Paso 2**
 ```ubuntu
  kill numeroPID
