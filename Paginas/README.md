@@ -21,6 +21,7 @@
 # Páginas con contenido de lenguajes y ayuda
 - https://www.w3schools.com/html/default.asp
 - https://developer.mozilla.org/es/
+- https://roadmap.sh/
 
 #IA
 - https://you.com/
@@ -28,3 +29,4 @@
 
 # Páginas con cursos
 - https://codigofacilito.com/cursos/javascript
+- https://bluuweb.github.io/
