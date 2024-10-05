@@ -12,27 +12,21 @@ https://git-scm.com/book/en/v2
 **Obtener últimos cambios de repositorio**
 ```Github
 git pull
- 
 ```
-
 **Crear y moverse a una nueva rama**
 ```Github
 git checkout -b nombre-rama
- 
+```
+**Ver cambios en archivos**
+```Github
+git status
+```
+**Agrega cambios e Ignora archivo para no subirlo .env**
+```Github
+git add . :!.env
 ```
 
 
-
-
-Ver cambios en archivos
-
-**git status**
-
-Agreaga cambios e Ignorar archivo para no subirlo 
-
-- el archivo ignorado es .env
-
-**git add . :!.env**
 
 Agregar Todos los cambios
 
