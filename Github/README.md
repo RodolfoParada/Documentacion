@@ -5,7 +5,7 @@ Libro digital https://git-scm.com/book/en/v2
 
 ### **Instrucciones Git**
 
-*Obtener últimos cambios de repositorio*
+**Obtener últimos cambios de repositorio**
 ```Github
 git pull
 ```
