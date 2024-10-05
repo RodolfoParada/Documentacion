@@ -24,6 +24,7 @@ certificaciones:
 - https://education.oracle.com/learning-explorer#startLearning
 
 </aside>
+
 **En ubuntu se puede selecciona la version de java con este comando**
 ```java
 sudo update-alternatives --config java
