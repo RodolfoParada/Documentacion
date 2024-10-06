@@ -26,6 +26,22 @@ https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 https://www.youtube.com/playlist?list=PLUdlARNXMVkk7E88zOrphPyGdS50Tadlr
  <aside>
 
+## Crea una carpeta y abrela con visual estudio code
+**Paso 1 instala el archivo package.json**
+```javascript
+npm init -y
+```
+**Paso 2 crear un archivo index.js**
+**Paso 3 instala el módulo express**
+```javascript
+npm i express
+```
+**Paso 4 nstala nodemon sirve para que se reflejen los cambios**
+```javascript
+npm install nodemon -D
+```
+**Instala las librerias que necesites**
+
 **Intalador de versiones NPM para todo**
 ```javascript
 npm use masNumeroVersion
