@@ -42,6 +42,15 @@ npm install nodemon -D
 ```
 **Instala las librerias que necesites**
 
+**Cors permite la comunicación entre diferentes dominios(back-end y front-end**
+```javascript
+npm install cors
+```
+**Procesa las solicitues JSON**
+```javascript
+npm install body-parser
+```
+
 **Intalador de versiones NPM para todo**
 ```javascript
 npm use masNumeroVersion
