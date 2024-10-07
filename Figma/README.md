@@ -14,4 +14,7 @@
 ## Curso de Figma
  - https://www.youtube.com/@RaulMarin_Figma
 
+## recursos para hacer mockoups
+- http://shots.so
+
 
