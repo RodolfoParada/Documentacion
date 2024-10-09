@@ -16,7 +16,7 @@ Shift + 7
 ```
 **Comando Barra diagonal al revés\**
 ```ubuntu
-control + v = \
+AltGr + ?
 ```
 **Crear carpeta por consola**
 ```ubuntu
