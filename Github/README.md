@@ -83,7 +83,7 @@ git ls-files
 git diff
 ```
 
-**Subir Un Proyecto Local a GitHub**
+### Subir Un Proyecto Local a GitHub
 **Inicializar el proyecto local para ser subido a GitHub**
 ```Github
 git init
@@ -102,9 +102,9 @@ git commit -m "first commit"
 ```Github
 git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 ```
-**Se sube el proyecto local a GIThUB**
+**Se sube el proyecto local a GitHub**
 ```Github
 git push -u origin master
 ```
-
+### Como hacer deploy en github 
 
