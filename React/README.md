@@ -23,6 +23,9 @@ npx create-react-app .
  ```react
   npm i react-router-dom
 ```
-
+**Agregar Plugin PWA**
+ ```react
+  yarn add -D vite-plugin-pwa
+```
 
 
