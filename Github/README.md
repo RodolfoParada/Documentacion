@@ -83,5 +83,28 @@ git ls-files
 git diff
 ```
 
+**Subir Un Proyecto Local a GitHub**
+**Inicializar el proyecto local para ser subido a GitHub**
+```Github
+git init
+```
+git add .
+**Se agrega el proyecto para ser subido a GitHub**
+```Github
+git add .
+```
+**Agregar primer commit**
+```Github
+git commit -m "first commit"
+```
+
+**Se conecta con el repositorio en GitHub**
+```Github
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+```
+**Se sube el proyecto local a GIThUB**
+```Github
+git push -u origin master
+```
 
 
