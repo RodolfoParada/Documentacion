@@ -18,8 +18,8 @@ ng serve -o
 ```
 **Para generar un nuevo componente**
 ```
-ng generate component nombre-componente
-ng g c nombre-componente
+ng generate component nombre-componente --skip-test
+ng g c nombre-componente --skip-test
 ```
 **Para crear un proyecto compatible con versiones anteriores**
 ```esta aplicación es de modulos anterir a la version 18
