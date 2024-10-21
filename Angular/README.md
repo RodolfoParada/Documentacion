@@ -16,9 +16,11 @@ ng new nombre-de-proyecto
 ```
 ng serve -o
 ```
-**Para generar un nuevo componente**
-```
+**Para generar un nuevo componente sin el test**
+```version larga 
 ng generate component nombre-componente --skip-test
+```
+```version corta
 ng g c nombre-componente --skip-test
 ```
 **Para crear un proyecto compatible con versiones anteriores**
