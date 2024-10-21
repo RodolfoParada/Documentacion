@@ -6,3 +6,7 @@
 ```
 ng new nombre-de-proyecto
 ```
+**Para levantar el proyecto angular en el navegador**
+```
+ng serve -o
+```
