@@ -23,6 +23,10 @@ ng generate component nombre-componente --skip-test
 ```version corta
 ng g c nombre-componente --skip-test
 ```
+**Crear componente inline**
+```
+ng g c nombre-componente --inline-template --inline-style --skip-tests
+```
 **Para crear un proyecto compatible con versiones anteriores**
 ```esta aplicación es de modulos anterir a la version 18
 ng new nombre-proyecto --stalone=false
