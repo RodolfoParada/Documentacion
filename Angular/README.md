@@ -31,6 +31,11 @@ ng g c nombre-componente --inline-template --inline-style --skip-tests
 ```
 npm install bootstrap@latest --save
 ```
+**Instalar libreria poppers**
+```
+npm i @popperjs/core --save
+```
+
 **Para crear un proyecto compatible con versiones anteriores**
 ```esta aplicación es de modulos anterir a la version 18
 ng new nombre-proyecto --stalone=false
