@@ -27,6 +27,10 @@ ng g c nombre-componente --skip-test
 ```
 ng g c nombre-componente --inline-template --inline-style --skip-tests
 ```
+**Instalar bootstrap en Angular**
+```
+npm install bootstrap@latest --save
+```
 **Para crear un proyecto compatible con versiones anteriores**
 ```esta aplicación es de modulos anterir a la version 18
 ng new nombre-proyecto --stalone=false
