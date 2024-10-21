@@ -18,7 +18,7 @@ ng serve -o
 ```
 **Para generar un nuevo componente**
 ```
-ng generate componente nombre-componente
+ng generate component nombre-componente
 ```
 **Para crear un proyecto compatible con versiones anteriores**
 ```esta aplicación es de modulos anterir a la version 18
