@@ -24,7 +24,16 @@ https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 [https://www.youtube.com/watch?v=e8n_9N-ZyFE&list=PL3aEngjGbYhnrRfZKMxzn79qdgPxL7OWM&ab_channel=DesarrolloÚtil](https://www.youtube.com/watch?v=e8n_9N-ZyFE&list=PL3aEngjGbYhnrRfZKMxzn79qdgPxL7OWM&ab_channel=Desarrollo%C3%9Atil)
 
 https://www.youtube.com/playlist?list=PLUdlARNXMVkk7E88zOrphPyGdS50Tadlr
- <aside>
+ aside>
+ 
+ ## Intalar Node.js última version
+``intalacion
+sudo apt install nodejs
+``
+**Revisar la version instalada
+``intalacion
+nodejs -v
+``
 
 ## Crea una carpeta y abrela con visual estudio code
 **Paso 1 instala el archivo package.json**
