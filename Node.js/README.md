@@ -27,13 +27,13 @@ https://www.youtube.com/playlist?list=PLUdlARNXMVkk7E88zOrphPyGdS50Tadlr
  aside>
  
  ## Intalar Node.js última version
-``intalacion
+```intalacion
 sudo apt install nodejs
-``
+```
 **Revisar la version instalada
-``intalacion
+```intalacion
 nodejs -v
-``
+```
 
 ## Crea una carpeta y abrela con visual estudio code
 **Paso 1 instala el archivo package.json**
