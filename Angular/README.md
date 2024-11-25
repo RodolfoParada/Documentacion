@@ -40,3 +40,7 @@ npm i @popperjs/core --save
 ```esta aplicación es de modulos anterir a la version 18
 ng new nombre-proyecto --stalone=false
 ```
+**Para crear un servicio**
+```esta aplicación es de modulos anterir a la version 18
+ng g s nombreComponente --skip-tests
+```
