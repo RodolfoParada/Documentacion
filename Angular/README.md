@@ -44,3 +44,8 @@ ng new nombre-proyecto --stalone=false
 ```esta aplicación es de modulos anterir a la version 18
 ng g s nombreComponente --skip-tests
 ```
+
+**Crear un proyeto standalone**
+```para versiones anteriores
+ng new  mi-primera-app --standalone=false
+```
