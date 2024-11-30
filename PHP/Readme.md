@@ -57,5 +57,12 @@ CustomLog ${APACHE_LOG_DIR}/access.log combined
 sudo /opt/lampp/lampp start
 ```
 
-
-
+**Coneccion a base de datos**
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=proyecto3
+DB_USERNAME=root
+DB_PASSWORD=admin
+```
