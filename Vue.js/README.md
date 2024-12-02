@@ -39,7 +39,10 @@ vue create nombre-del-proyecto
 ```vue
 npm install vuex@next
 ```
-
+**Instalar Bootstrap**
+```vue
+npm install bootstrap
+```
 **Instalar vue vite**
 ```vue
  sudo npm init vite@latest
