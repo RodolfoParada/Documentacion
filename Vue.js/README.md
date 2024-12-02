@@ -31,6 +31,10 @@ https://escuelavue.es/cursos/
 ```vue
 sudo npm install -g @vue/cli
 ```
+**Crear Proyecto vue clic**
+```vue
+vue create nombre-del-proyecto
+```
 
 **Instalar vue vite**
 ```vue
