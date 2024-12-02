@@ -35,6 +35,10 @@ sudo npm install -g @vue/cli
 ```vue
 vue create nombre-del-proyecto
 ```
+**Instalar VUEX**
+```vue
+npm install vuex@next
+```
 
 **Instalar vue vite**
 ```vue
