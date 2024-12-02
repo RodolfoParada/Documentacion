@@ -29,10 +29,10 @@ https://escuelavue.es/cursos/
 
 **Instalar vue clic**
 ```vue
-install -g @vue/cli
+sudo npm install -g @vue/cli
 ```
 
 **Instalar vue vite**
 ```vue
-  npm init vite@latest
+ sudo npm init vite@latest
 ```
