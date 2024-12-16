@@ -10,6 +10,7 @@
 - [MySQL](MySQL/README.md)
 - [Node.js](Node.js/README.md)
 - [Paginas](Paginas/README.md)
+- [Python](Python/README.md)
 - [React.js](React/README.md)
 - [SQL](SQL/README.md)
 - [SprintBoot](SprintBoot/README.md)
