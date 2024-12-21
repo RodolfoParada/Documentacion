@@ -2,13 +2,13 @@
 
 <aside>
 </aside>
+###framework de pha
+###https://codeigniter.com/
 
 **Como instalar PHP**
 ```instalar PHP
 sudo apt install php
 ```
-
-
 **Como crear un proyecto en laravel**
 ```
 composer create-project --prefer-dist laravel/laravel nombre-del-proyecto
