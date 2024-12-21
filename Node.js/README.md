@@ -1,10 +1,10 @@
 # Node.js
 - [Volver al Inicio](../README.md)
 <aside>
- Página Oficial
 https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md
  
-https://nodejs.org/en/
+Página Oficial
+ https://nodejs.org/en/
 
 - Install Yarn
 
