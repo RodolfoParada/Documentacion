@@ -6,6 +6,8 @@ https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/READM
 Página Oficial
  https://nodejs.org/en/
 
+ https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md
+
 - Install Yarn
 
 https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
