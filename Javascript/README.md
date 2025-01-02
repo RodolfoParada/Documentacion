@@ -24,8 +24,6 @@ https://www.aprendejavascript.dev/
 
 http://expertojava.ua.es/experto/restringido/2015-16/js/js03.html
 
-https://eloquentjavascript.net/
-
 https://www.w3schools.com/
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
@@ -56,7 +54,7 @@ https://learn.microsoft.com/en-us/training/paths/web-development-101/https://git
 
 https://exercism.org/dashboard
 
-JQUERY
+####JQUERY
 
 https://www.youtube.com/watch?v=q9alfj_PCpU&list=PLAzlSdU-KYwVvj6opCrXNvuDExGApmiud
 
@@ -80,9 +78,6 @@ proyectos desde cero
 
 https://codewithcurious.com/
 
-javascript youtube freeCodeCamp.org
-
-https://www.youtube.com/@freecodecampespanol
 
 Aprender programar diferentes lenguajes
 
@@ -124,8 +119,22 @@ https://www.jschallenger.com/
 
 </aside>
 
-Cursos Javascript 
+####Cursos Javascript.
+
+https://www.youtube.com/@freecodecampespanol
 
 https://www.youtube.com/watch?v=Z4TuS0HEJP8&list=PLPl81lqbj-4I2ZOzryjPKxfhK3BzTlaJ7
 
 https://github.com/Asabeneh/30-Days-Of-JavaScript
+
+#### Libros Digitales.
+https://eloquentjavascript.net/
+
+https://leanpub.com/javascript-inspirate
+
+https://es.javascript.info/
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide
+
+
+
