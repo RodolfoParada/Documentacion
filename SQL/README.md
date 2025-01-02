@@ -3,6 +3,8 @@
 <aside>
   Curso
 
+https://www.youtube.com/playlist?list=PLUofhDIg_38qg8LANkItqY-0sYw7CTDui
+
 https://www.codecademy.com/learn/learn-sql
 
 https://www.sql-practice.com/

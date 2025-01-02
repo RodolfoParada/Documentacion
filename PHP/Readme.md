@@ -2,6 +2,11 @@
 
 <aside>
 </aside>
+
+##Curso PHP
+ 
+https://www.youtube.com/watch?v=BcGAPkjt_IE
+
 ###framework de pha
 ###https://codeigniter.com/
 

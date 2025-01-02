@@ -6,7 +6,10 @@
 ##Recurso general.
 https://github.com/midudev/libros-programacion-gratis
 
-##cursos 
+##Cursos 
 
 https://github.com/mouredev/Hello-Python
 
+##Libros
+
+https://ellibrodepython.com/introduccion-python

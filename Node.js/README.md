@@ -20,7 +20,9 @@ https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
  https://www.nodejsera.com/30-days-of-node.html
 
 
- cursos Node.js
+ ###cursos Node.js.
+
+ https://www.youtube.com/watch?v=yB4n_K7dZV8&list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7
 
  https://www.youtube.com/watch?v=yB4n_K7dZV8&list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7&index=2&ab_channel=midulive
 
