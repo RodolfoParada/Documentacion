@@ -8,6 +8,8 @@ https://github.com/mouredev/hello-javascript
   
 https://www.w3schools.com/html/default.asp
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 https://developer.mozilla.org/en-US
 
 https://roadmap.sh
