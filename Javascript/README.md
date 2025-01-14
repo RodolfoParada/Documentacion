@@ -140,5 +140,9 @@ https://es.javascript.info/
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Guide
 
+#### Algoritmos.
+https://the-algorithms.com/
+
+
 
 
