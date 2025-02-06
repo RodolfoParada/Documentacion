@@ -143,6 +143,9 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide
 #### Algoritmos.
 https://the-algorithms.com/
 
+### Programación General
+https://github.com/DevCaress/guia-entrevistas-de-programacion
+
 
 
 
