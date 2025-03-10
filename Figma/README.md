@@ -18,4 +18,8 @@
 ## recursos para hacer mockoups
 - http://shots.so
 
+## recurso UX
+## simulador de discapacidad.
+https://www.funkify.org/
+
 
