@@ -9,4 +9,12 @@ GDK_BACKEND=x11 codeblocks
  ```
   codeblocks
 ```
+**Compila**
+ ```
+  ctrl + f9
+```
+**ejecuta**
+ ```
+  ctrl + f10
+```
  
