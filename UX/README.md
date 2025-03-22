@@ -12,3 +12,6 @@
 
 ## https://v2.chakra-ui.com/
 ## https://ant.design/components/flex
+## https://accessibility.cl/evaluador-de-pauta-wcag/
+## www.funkify.org
+## wave.webaim.org
