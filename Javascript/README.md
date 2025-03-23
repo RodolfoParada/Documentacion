@@ -146,6 +146,9 @@ https://the-algorithms.com/
 ### Programación General
 https://github.com/DevCaress/guia-entrevistas-de-programacion
 
+### Practica programacion
+https://playcode.io/learn
+coderwars
 
 
 
