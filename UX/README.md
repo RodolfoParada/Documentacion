@@ -21,5 +21,8 @@
 ## WCAG: https://www.w3.org/WAI/
 ## https://accessibility.cl/evaluador-de-pauta-wcag/
 ## https://webaim.org/
+## https://www.w3.org/WAI/WCAG22/Understanding/text-spacing
+## https://www.w3.org/WAI/test-evaluate/preliminary/
+
 
 
