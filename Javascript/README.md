@@ -151,4 +151,7 @@ https://playcode.io/learn
 coderwars
 
 
-
+### Este plugin de visual studios code corre javascript vanila puro
+   ```
+     code Run
+   ```
