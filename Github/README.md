@@ -131,11 +131,12 @@ git remote set-url origin git@github-secundario:Rodolfotech/repo2.git
 git push -u origin master
 ```
 
-### Subir Un Proyecto Local al Github de Amorfia
+### Clonar Proyectos del Github de Amorfia
 **Clonar proyectos desde Github de Amorfia**
 ```Github
 git clone git@github-secundario:Rodolfotech/nombre-repo.git
 ```
 ### Como hacer deploy en github 
+
 
 
