@@ -106,5 +106,36 @@ git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 ```Github
 git push -u origin master
 ```
+
+### Subir Un Proyecto Local al Github de Amorfia
+**Inicializar el proyecto local para ser subido a GitHub**
+```Github
+git init
+```
+git add .
+**Se agrega el proyecto para ser subido a GitHub**
+```Github
+git add .
+```
+**Agregar primer commit**
+```Github
+git commit -m "first commit"
+```
+
+**Se conecta con el repositorio en GitHub**
+```Github
+git remote set-url origin git@github-secundario:Rodolfotech/repo2.git
+```
+**Se sube el proyecto local a GitHub**
+```Github
+git push -u origin master
+```
+
+### Subir Un Proyecto Local al Github de Amorfia
+**Clonar proyectos desde Github de Amorfia**
+```Github
+git clone git@github-secundario:Rodolfotech/nombre-repo.git
+```
 ### Como hacer deploy en github 
+
 
