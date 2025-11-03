@@ -136,7 +136,21 @@ git push -u origin master
 ```Github
 git clone git@github-secundario:Rodolfotech/nombre-repo.git
 ```
+__________________________________________________________________________________________________________________-
+### Simular un "rollback" a la versión anterior"
+```Github
+git checkout HEAD~1
+cat app.js  # Vemos la versión anterio
+```
+### Volvemos a la versión actual"
+```Github
+git checkout master
+cat app.js  # Vemos la versión completa
+```
+
+
 ### Como hacer deploy en github 
+
 
 
 
