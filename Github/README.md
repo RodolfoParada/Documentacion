@@ -197,9 +197,39 @@ _______________________________________________________________________________
 
 <pie opcional para referencias de tickets o Breaking Changes>``` | Estandariza todos los commits y permite generar changelogs automáticamente. |
 
+# Muestra el historial completo de commits
+```git log
+```
+# Muestra el historial de commits en una sola línea por entrada
+```git log --oneline
+```
 
+# Modifica el último commit (mensaje o archivos)
+```git commit --amend
+```
+# Fuerza la actualización del repositorio remoto con los cambios locales
+```git push origin master --force-with-lease
+```
+# Muestra los detalles del último commit (+ agregado / - eliminado)
+```git show HEAD
+```
+# Crear una nueva rama
+```git checkout -b feature/nombreRama
+```
+
+#Enviar rama al remoto
+```git push origin feature/saludo-personalizado
+```
+
+# Cambiar a una rama
+```git checkout feature/nombreRama o main
+```
+# ver la lista de ramas 
+```git branch -a
+```
 
 ### Como hacer deploy en github 
+
 
 
 
