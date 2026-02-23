@@ -224,8 +224,17 @@ _______________________________________________________________________________
 # Cambiar a una rama
 ```git checkout feature/nombreRama o main
 ```
-# ver la lista de ramas 
-```git branch -a
+# eliminar ramas local  
+```git branch -d nombre-de-la-rama
+```
+# forzar la eliminacion de ramas local  
+```git branch -d nombre-de-la-rama
+```
+# eliminacion de ramas en GitHub
+```git push origin --delete nombre-de-la-rama
+```
+# limpia referencias muertas es decir si las ramas ha sido eliminadas y aún hay referencias
+```git fetch --prune
 ```
 
 ### Como hacer deploy en github 
