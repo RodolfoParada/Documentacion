@@ -198,43 +198,55 @@ _______________________________________________________________________________
 <pie opcional para referencias de tickets o Breaking Changes>``` | Estandariza todos los commits y permite generar changelogs automáticamente. |
 
 # Muestra el historial completo de commits
-```git log
+```
+git log
 ```
 # Muestra el historial de commits en una sola línea por entrada
-```git log --oneline
+```
+git log --oneline
 ```
 
 # Modifica el último commit (mensaje o archivos)
-```git commit --amend
+```
+git commit --amend
 ```
 # Fuerza la actualización del repositorio remoto con los cambios locales
-```git push origin master --force-with-lease
+```
+git push origin master --force-with-lease
 ```
 # Muestra los detalles del último commit (+ agregado / - eliminado)
-```git show HEAD
+```
+git show HEAD
 ```
 # Crear una nueva rama
-```git checkout -b feature/nombreRama
+```
+git checkout -b feature/nombreRama
 ```
 
 #Enviar rama al remoto
-```git push origin feature/saludo-personalizado
+```
+git push origin feature/saludo-personalizado
 ```
 
 # Cambiar a una rama
-```git checkout feature/nombreRama o main
+```
+git checkout feature/nombreRama o main
 ```
 # eliminar ramas local  
-```git branch -d nombre-de-la-rama
+```
+git branch -d nombre-de-la-rama
 ```
 # forzar la eliminacion de ramas local  
-```git branch -d nombre-de-la-rama
+```
+git branch -d nombre-de-la-rama
 ```
 # eliminacion de ramas en GitHub
-```git push origin --delete nombre-de-la-rama
+```
+git push origin --delete nombre-de-la-rama
 ```
 # limpia referencias muertas es decir si las ramas ha sido eliminadas y aún hay referencias
-```git fetch --prune
+```
+git fetch --prune
 ```
 
 ### Como hacer deploy en github 
